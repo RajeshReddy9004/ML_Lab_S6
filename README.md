@@ -1,4 +1,2 @@
-# apnacollege-demo
-This is my first repo demo
-<br>
-This is Harshitha Reddy
+#This repo contain all the Machine Learning Laboratory Course work that was given as the assignments
+
